@@ -45,7 +45,7 @@
     <tbody>
      <tr>
    <td class="instructions">
-- Download MDM Android
+-  MDM Android
     </td>
    <td width="40" class="imagelink">
     <a href="https://iosadev.github.io/filespace/app/MDM-dnroid.apk"><img src="./roidbot.png" height="40" width="40">
@@ -54,7 +54,7 @@
    </tr>
     <tr>
    <td class="instructions">
-- Download ME.App
+-  ME.App
     </td>
    <td width="40" class="imagelink">
     <a href="https://iosadev.github.io/filespace/app/MEncryption.apk"><img src="./meicon.png" height="40" width="40">
@@ -63,7 +63,7 @@
    </tr>
    <tr>
     <td class="instructions">
-- Download Security.App
+-  Security.App
     </td>
    <td width="40" class="imagelink">
     <a href="https://iosadev.github.io/filespace/app/Security.apk"><img src="./shieldicon.png" height="40" width="40">
