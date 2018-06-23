@@ -76,7 +76,7 @@ plugins:
 # ---------------------------------------------------------------
 
 # Put your favicon.ico into `assets/` directory.
-favicon: ./assets/author.png   #我的照片
+favicon: /assets/images/author.png   #我的照片
 
 # Set default keywords (Use a comma to separate)
 keywords: "iOSaDev"
