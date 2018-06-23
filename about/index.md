@@ -2,7 +2,7 @@
 layout: page
 type: about
 ---
-![Jekyll Editor]("https://iosadev.github.io/assets/icon/giticon.png")
+http:www.google.com
 
      <a href="https://iosadev.github.io/"><img src="../assets/icon/giticon.png" height="32" width="32">
      </a>
