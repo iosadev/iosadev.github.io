@@ -419,11 +419,11 @@ changyan:
 gitalk:
   #enable: false
   enable: true
-  clientID: # 54730ddf7b9420460c03
-  clientSecret: # c05684701b25ff1c19ea0c01ce4d80c125e0707d
-  repo: # colingpt.github.io
-  owner: # colingpt
-  admin: # colingpt
+  clientID: 61397e09ffae00f21875 # 54730ddf7b9420460c03
+  clientSecret: 4697a1d232bf9c5e57c87aa44b86ec1c5f6db8a7 # c05684701b25ff1c19ea0c01ce4d80c125e0707d
+  repo: iosadev.github.io # colingpt.github.io
+  owner: iosadev # colingpt
+  admin: iosadev # colingpt
 
 # Baidu Share
 # Available value:
