@@ -76,7 +76,7 @@ plugins:
 # ---------------------------------------------------------------
 
 # Put your favicon.ico into `assets/` directory.
-favicon: /assets/images/author.png   #我的照片
+favicon: /assets/images/author.png   #我的最愛icon
 
 # Set default keywords (Use a comma to separate)
 keywords: "iOSaDev"
@@ -213,10 +213,12 @@ font:
 # Social Links
 # Key is the link label showing to end users.
 # Value is the target link (E.g. GitHub: https://github.com/iissnan)
-#social:
+social:
   #LinkLabel: Link
   GitHub: https://iosadev.github.io/
   Instagram: https://www.instagram.com/liu_yungchang/
+  Facebook: https://www.facebook.com/profile.php?id=100008869745527
+  
 
 
 # Social Links Icons
@@ -231,12 +233,14 @@ social_icons:
   GitHub: github
   Twitter: twitter
   Weibo: weibo
+  Facebook: facebook
+ 
 
 
 # Sidebar Avatar
 # in directory: /assets/images/avatar.gif
 #avatar: 
-avatar:  /assets/images/author.png
+avatar:  /assets/images/author.png  #我的帥照
 
 
 # Table Of Contents in the Sidebar
