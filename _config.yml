@@ -9,7 +9,7 @@ subtitle: iOS@Dev's Blog
 description:
 author: iosadev
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
-language: zh-tw
+language: en
 date_format: '%Y-%m-%d'
 
 # URL
@@ -76,7 +76,7 @@ plugins:
 # ---------------------------------------------------------------
 
 # Put your favicon.ico into `assets/` directory.
-favicon: /assets/author.png   #我的照片
+favicon: ./assets/author.png   #我的照片
 
 # Set default keywords (Use a comma to separate)
 keywords: "iOSaDev"
@@ -562,7 +562,8 @@ algolia_search:
 
 # Local search
 local_search:
-  enable: false
+  enable: true
+  #enable: false
   # if auto, trigger search by changing input
   # if manual, trigger search by pressing enter key or search button
   trigger: auto
