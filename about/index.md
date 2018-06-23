@@ -3,7 +3,6 @@ layout: page
 type: about
 ---
 
+Share with you my life more. hope you will like it.
 
-<img src="../assets/icon/giticon.png" height="32" width="32">[Github](https://iosadev.github.io/)
-
-<img src="../assets/icon/igicon.png" height="32" width="32">[Instagram](https://www.instagram.com/liu_yungchang/)
+My enthusiasm comes from information technology. 
