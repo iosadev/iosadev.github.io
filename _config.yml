@@ -76,7 +76,7 @@ plugins:
 # ---------------------------------------------------------------
 
 # Put your favicon.ico into `assets/` directory.
-favicon: /assets/favicon.ico
+favicon: /assets/author.png   #我的照片
 
 # Set default keywords (Use a comma to separate)
 keywords: "Jekyll, NexT"
@@ -116,14 +116,14 @@ index_with_subtitle: false
 # ---------------------------------------------------------------
 
 # When running the site in a subdirectory (e.g. domain.tld/blog), remove the leading slash (/archives -> archives)
-menu:
-  home: /
-  categories: /categories/
-  about: /about/
-  archives: /archives/
-  tags: /tags/
-  sitemap: /sitemap.xml
-  commonweal: /404.html
+menu:   #選單
+  home: /   #首頁
+  about: /about/   #關於
+  categories: /categories/   #分類
+  archives: /archives/   #歸檔
+  tags: /tags/   #標籤
+  #sitemap: /sitemap.xml
+  #commonweal: /404.html
 
 
 # Enable/Disable menu icons.
