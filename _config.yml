@@ -4,10 +4,10 @@
 # ---------------------------------------------------------------
 
 # Site
-title: NexT
+title: iOS@Dev
 subtitle:
 description:
-author: John Doe
+author: iosadev
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
 language: en
 date_format: '%Y-%m-%d'
@@ -215,6 +215,8 @@ font:
 # Value is the target link (E.g. GitHub: https://github.com/iissnan)
 #social:
   #LinkLabel: Link
+  GitHub: https://iosadev.github.io/
+  Instagram: https://www.instagram.com/liu_yungchang/
 
 
 # Social Links Icons
