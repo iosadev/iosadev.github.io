@@ -1,8 +1,8 @@
-## `iOS`
+## `iOS .ver`
  <table>
    <tbody>
    <tr><td class="instructions">
-- Download MDM v1.36
+-  MDM v1.36
     </td>
     <td width="50" class="imagelink">
      <a href="itms-services://?action=download-manifest&url=https://iosadev.github.io/plist/install36.plist"><img src="/filespace/ipa/icon.png" height="32" width="32">
@@ -11,7 +11,7 @@
    </tr> 
    <tr>
     <td class="instructions">
-- Download MDM v1.39
+-  MDM v1.39
     </td>
     <td width="50" class="imagelink">
      <a href="itms-services://?action=download-manifest&url=https://iosadev.github.io/plist/install39.plist"><img src="/filespace/ipa/icon.png" height="32" width="32">
@@ -20,7 +20,7 @@
    </tr>
    <tr>
     <td class="instructions">
-- Install the iOS Profile
+-  Profile
     </td>
     <td width="50" class="imagelink">
      <a href="https://iosadev.github.io/filespace/ipa/servermdmsigned.crt"><img src="https://iosadev.github.io/filespace/ipa/src.png" height="32" width="32">
@@ -29,7 +29,7 @@
    </tr>
  <tr>
     <td class="instructions">
-- iOS MDM Crack app
+- crack
     </td>
     <td width="50" class="imagelink">
      Coming soon...
@@ -37,7 +37,7 @@
    </tr>
    </tbody> </table>
    
-## `Android`
+## `Android .ver`
 
  <table>
     <tbody>
