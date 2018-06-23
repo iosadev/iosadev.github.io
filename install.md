@@ -1,4 +1,4 @@
-## ' Mobile MDM Soft.'
+## Mobile MDM Soft.
 
 ## `iOS .ver`
  <table>
