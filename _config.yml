@@ -235,8 +235,8 @@ social_icons:
 
 # Sidebar Avatar
 # in directory: /assets/images/avatar.gif
- in directory: /assets/images/author.png
-#avatar:
+#avatar: 
+avatar:  /assets/images/author.png
 
 
 # Table Of Contents in the Sidebar
