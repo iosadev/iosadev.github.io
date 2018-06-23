@@ -3,7 +3,7 @@
 ## `iOS .ver`
  <table>
    <tbody>
-   <tr><td class="instructions">
+   <tr style="width:70px"><td class="instructions">
 -  MDM v1.36
     </td>
     <td width="40" class="imagelink">
@@ -11,7 +11,7 @@
      </a>
     </td>
    </tr> 
-   <tr>
+   <tr style="width:70px">
     <td class="instructions">
 -  MDM v1.39
     </td>
@@ -20,7 +20,7 @@
      </a>
     </td>
    </tr>
-   <tr>
+   <tr style="width:70px">
     <td class="instructions">
 -  Profile
     </td>
