@@ -590,7 +590,8 @@ exturl: false
 use_motion: true
 
 # Fancybox
-fancybox: true
+#fancybox: true    #啟用圖片預覽
+fancybox: false    #關閉圖片預覽
 
 # Progress bar in the top during page loading.
 pace: false
