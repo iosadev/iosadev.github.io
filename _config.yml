@@ -9,7 +9,7 @@ subtitle: iOS@Dev's Blog
 description:
 author: iosadev
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
-language: en
+language: en,zh-tw
 date_format: '%Y-%m-%d'
 
 # URL
