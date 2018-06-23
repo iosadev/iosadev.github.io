@@ -1,7 +1,11 @@
 ---
 layout: page
-type: about
+type: 
 ---
 
-  GitHub: https://iosadev.github.io/
-  Instagram: https://www.instagram.com/liu_yungchang/
+  [GitHub](https://iosadev.github.io/)
+  
+  
+  [Instagram](https://www.instagram.com/liu_yungchang/)
+   
+ 
