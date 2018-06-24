@@ -34,7 +34,7 @@
 - Crack
     </td>
     <td width="40" class="imagelink">
-     Coming soon...
+     <font size="4">Coming soon...</font>
     </td>
    </tr>
    </tbody> </table>
