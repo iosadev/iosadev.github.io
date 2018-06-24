@@ -50,7 +50,7 @@
     <a href="https://iosadev.github.io/filespace/app/mdmbot.apk"><img src="/filespace/app/rdbot.png" height="40" width="40">
     </a></td></tr>
      <tr><td class="instructions">     
- -  ME.App    
+ -  ME.App
     </td>
    <td width="40" class="imagelink">
     <a href="https://iosadev.github.io/filespace/app/Encryption.apk"><img src="/filespace/app/meicon.png" height="40" width="40">
