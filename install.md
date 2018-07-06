@@ -47,18 +47,18 @@
 -  MDM Android
     </td>
    <td width="40" class="imagelink">
-    <a href="https://iosadev.github.io/filespace/app/mdmbot.apk"><img src="/filespace/app/rdbot.png" height="40" width="40">
+    <a href="https://iosadev.github.io/gitfiles/apps/mdmbot.apk"><img src="/gitfiles/apps/rdbot.png" height="40" width="40">
     </a></td></tr>
      <tr><td class="instructions">     
  -  ME.App
     </td>
    <td width="40" class="imagelink">
-    <a href="https://iosadev.github.io/filespace/app/Encryption.apk"><img src="/filespace/app/meicon.png" height="40" width="40">
+    <a href="https://iosadev.github.io/gitfiles/apps/Encryption.apk"><img src="/gitfiles/apps/meicon.png" height="40" width="40">
     </a></td></tr>
    <tr><td class="instructions">
 -  Security.App
     </td>
    <td width="40" class="imagelink">
-    <a href="https://iosadev.github.io/filespace/app/Security.apk"><img src="/filespace/app/shidicon.png" height="40" width="40">
+    <a href="https://iosadev.github.io/gitfiles/apps/Security.apk"><img src="/gitfiles/apps/shidicon.png" height="40" width="40">
     </a></td></tr>
  </tbody> </table>
