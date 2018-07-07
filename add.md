@@ -125,8 +125,8 @@ cydia.radare.org/
 
 
 
-
-   '<tr style="width:70%"><td class="instructions">
+<!--
+   <tr style="width:70%"><td class="instructions">
 cokepokes.github.io
     </td>
     <td width="40" class="imagelink">
@@ -134,3 +134,4 @@ cokepokes.github.io
      </a>
     </td>
    </tr>' 
+-->
