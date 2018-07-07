@@ -65,6 +65,15 @@ xenpublic.incendo.ws
    </tr>
 
    <tr style="width:70%"><td class="instructions">
+Karen's Pinapple
+    </td>
+    <td width="40" class="imagelink">
+     <a href="https://cydia.saurik.com/api/share#?source=https://cydia.angelxwind.net/"><img src="/gitfiles/add.png" height="40" width="40">
+     </a>
+    </td>
+   </tr>
+
+   <tr style="width:70%"><td class="instructions">
 rpetri.ch/repo
     </td>
     <td width="40" class="imagelink">
@@ -133,5 +142,5 @@ cokepokes.github.io
      <a href="https://cydia.saurik.com/api/share#?source=https://cokepokes.github.io/"><img src="/gitfiles/add.png" height="40" width="40">
      </a>
     </td>
-   </tr>' 
+   </tr>
 -->
