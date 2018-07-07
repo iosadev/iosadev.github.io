@@ -2,10 +2,8 @@
 
 <table>
    <tbody>
-   <tr style="width:70%"><td class="instructions">
+   <tr style="width:70%">
 repo.xarold.com
-    </td>
-    <td width="40" class="imagelink">
      <a href="https://cydia.saurik.com/api/share#?source=https://repo.xarold.com/"><img src="/add.png" height="40" width="40">
      </a>
     <td width="40" class="instructions">
