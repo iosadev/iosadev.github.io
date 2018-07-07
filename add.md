@@ -3,19 +3,52 @@
 <table>
    <tbody>
    <tr style="width:70%">
-repo.xarold.com
-     <a href="https://cydia.saurik.com/api/share#?source=https://repo.xarold.com/"><img src="/add.png" height="40" width="40">
+
+     <a href=""><img src="/add.png" height="40" width="40">
      </a>
     <td width="40" class="instructions">
-cokepokes.github.io
+
     </td>
-     <a href="https://cydia.saurik.com/api/share#?source=https://cokepokes.github.io/"><img src="/add.png" height="40" width="40">
+     <a href=""><img src="/add.png" height="40" width="40">
      </a>
     </td>
           
    </tr>
   </tbody> 
 </table>
+
+
+
+
+
+
+
+
+ <table>
+   <tbody>
+   <tr style="width:70%"><td class="instructions">
+repo.xarold.com
+    </td>
+    <td width="40" class="imagelink">
+     <a href="https://cydia.saurik.com/api/share#?source=https://repo.xarold.com/"><img src="/gitfiles/add.png" height="40" width="40">
+     </a>
+    </td>
+   </tr>
+   <tr style="width:70%"><td class="instructions">
+cokepokes.github.io
+    </td>
+    <td width="40" class="imagelink">
+     <a href="https://cydia.saurik.com/api/share#?source=https://cokepokes.github.io/"><img src="/gitfiles/add.png" height="40" width="40">
+     </a>
+    </td>
+   </tr>
+  </tbody> 
+</table>
+
+
+
+
+
 
 
 
