@@ -8,7 +8,36 @@ repo.xarold.com
     <td width="40" class="imagelink">
      <a href="https://cydia.saurik.com/api/share#?source=https://repo.xarold.com/"><img src="/add.png" height="40" width="40">
      </a>
+    <td class="instructions">
+cokepokes.github.io
     </td>
+     <a href="https://cydia.saurik.com/api/share#?source=https://cokepokes.github.io/"><img src="/add.png" height="40" width="40">
+     </a>
+       
+    </td>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
    </tr>
   </tbody> 
 </table>
@@ -25,7 +54,7 @@ repo.xarold.com
 
 
 
-https://cydia.saurik.com/api/share#?source=https://cokepokes.github.io/
+
 
 https://cydia.saurik.com/api/share#?source=https://cydia.hbang.ws/
 
