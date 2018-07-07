@@ -47,6 +47,15 @@ julioverne.github.io
    </tr>
 
    <tr style="width:70%"><td class="instructions">
+Evynw.github.io
+    </td>
+    <td width="40" class="imagelink">
+     <a href="https://cydia.saurik.com/api/share#?source=https://evynw.github.io/"><img src="/gitfiles/add.png" height="40" width="40">
+     </a>
+    </td>
+   </tr>
+
+   <tr style="width:70%"><td class="instructions">
 lonestarx.yourepo.com
     </td>
     <td width="40" class="imagelink">
