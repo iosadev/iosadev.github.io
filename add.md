@@ -6,7 +6,7 @@
 repo.xarold.com
     </td>
     <td width="40" class="imagelink">
-     <a href="https://cydia.saurik.com/api/share#?source=https://repo.xarold.com/"><img src="/gitfiles/add.png" height="40" width="40">
+     <a href="cydia://url/https://cydia.saurik.com/api/share#?source=https://repo.xarold.com/"><img src="/gitfiles/add.png" height="40" width="40">
      </a>
     </td>
    </tr>
@@ -14,7 +14,7 @@ repo.xarold.com
 cokepokes.github.io
     </td>
     <td width="40" class="imagelink">
-     <a href="https://cydia.saurik.com/api/share#?source=https://cokepokes.github.io/"><img src="/gitfiles/add.png" height="40" width="40">
+     <a href="cydia://url/https://cydia.saurik.com/api/share#?source=https://cokepokes.github.io/"><img src="/gitfiles/add.png" height="40" width="40">
      </a>
     </td>
    </tr>
@@ -23,7 +23,7 @@ cokepokes.github.io
 cydia.hbang.ws
     </td>
     <td width="40" class="imagelink">
-     <a href="https://cydia.saurik.com/api/share#?source=https://cydia.hbang.ws/"><img src="/gitfiles/add.png" height="40" width="40">
+     <a href="cydia://url/https://cydia.saurik.com/api/share#?source=https://cydia.hbang.ws/"><img src="/gitfiles/add.png" height="40" width="40">
      </a>
     </td>
    </tr>
@@ -32,7 +32,7 @@ cydia.hbang.ws
 ryleyangus.com/repo
     </td>
     <td width="40" class="imagelink">
-     <a href="https://cydia.saurik.com/api/share#?source=https://ryleyangus.com/repo/"><img src="/gitfiles/add.png" height="40" width="40">
+     <a href="cydia://url/https://cydia.saurik.com/api/share#?source=https://ryleyangus.com/repo/"><img src="/gitfiles/add.png" height="40" width="40">
      </a>
     </td>
    </tr>
@@ -41,7 +41,7 @@ ryleyangus.com/repo
 julioverne.github.io
     </td>
     <td width="40" class="imagelink">
-     <a href="https://cydia.saurik.com/api/share#?source=http://julioverne.github.io/"><img src="/gitfiles/add.png" height="40" width="40">
+     <a href="cydia://url/https://cydia.saurik.com/api/share#?source=http://julioverne.github.io/"><img src="/gitfiles/add.png" height="40" width="40">
      </a>
     </td>
    </tr>
@@ -50,7 +50,7 @@ julioverne.github.io
 Evynw.github.io
     </td>
     <td width="40" class="imagelink">
-     <a href="https://cydia.saurik.com/api/share#?source=https://evynw.github.io/"><img src="/gitfiles/add.png" height="40" width="40">
+     <a href="cydia://url/https://cydia.saurik.com/api/share#?source=https://evynw.github.io/"><img src="/gitfiles/add.png" height="40" width="40">
      </a>
     </td>
    </tr>
@@ -59,7 +59,7 @@ Evynw.github.io
 lonestarx.yourepo.com
     </td>
     <td width="40" class="imagelink">
-     <a href="https://cydia.saurik.com/api/share#?source=http://lonestarx.yourepo.com/"><img src="/gitfiles/add.png" height="40" width="40">
+     <a href="cydia://url/https://cydia.saurik.com/api/share#?source=http://lonestarx.yourepo.com/"><img src="/gitfiles/add.png" height="40" width="40">
      </a>
     </td>
    </tr>
@@ -68,7 +68,7 @@ lonestarx.yourepo.com
 xenpublic.incendo.ws
     </td>
     <td width="40" class="imagelink">
-     <a href="https://cydia.saurik.com/api/share#?source=http://xenpublic.incendo.ws/"><img src="/gitfiles/add.png" height="40" width="40">
+     <a href="cydia://url/https://cydia.saurik.com/api/share#?source=http://xenpublic.incendo.ws/"><img src="/gitfiles/add.png" height="40" width="40">
      </a>
     </td>
    </tr>
@@ -77,7 +77,7 @@ xenpublic.incendo.ws
 Karen's Pinapple
     </td>
     <td width="40" class="imagelink">
-     <a href="https://cydia.saurik.com/api/share#?source=https://cydia.angelxwind.net/"><img src="/gitfiles/add.png" height="40" width="40">
+     <a href="cydia://url/https://cydia.saurik.com/api/share#?source=https://cydia.angelxwind.net/"><img src="/gitfiles/add.png" height="40" width="40">
      </a>
     </td>
    </tr>
@@ -86,7 +86,7 @@ Karen's Pinapple
 rpetri.ch/repo
     </td>
     <td width="40" class="imagelink">
-     <a href="https://cydia.saurik.com/api/share#?source=http://rpetri.ch/repo/"><img src="/gitfiles/add.png" height="40" width="40">
+     <a href="cydia://url/https://cydia.saurik.com/api/share#?source=http://rpetri.ch/repo/"><img src="/gitfiles/add.png" height="40" width="40">
      </a>
     </td>
    </tr>
@@ -95,7 +95,7 @@ rpetri.ch/repo
 limneos.net/repo
     </td>
     <td width="40" class="imagelink">
-     <a href="https://cydia.saurik.com/api/share#?source=http://limneos.net/repo/"><img src="/gitfiles/add.png" height="40" width="40">
+     <a href="cydia://url/https://cydia.saurik.com/api/share#?source=http://limneos.net/repo/"><img src="/gitfiles/add.png" height="40" width="40">
      </a>
     </td>
    </tr>
@@ -104,7 +104,7 @@ limneos.net/repo
 junesiphone.com/supersecret
     </td>
     <td width="40" class="imagelink">
-     <a href="https://cydia.saurik.com/api/share#?source=http://junesiphone.com/supersecret"><img src="/gitfiles/add.png" height="40" width="40">
+     <a href="cydia://url/https://cydia.saurik.com/api/share#?source=http://junesiphone.com/supersecret"><img src="/gitfiles/add.png" height="40" width="40">
      </a>
     </td>
    </tr>
@@ -113,7 +113,7 @@ junesiphone.com/supersecret
 beta.sparkservers.co.uk
     </td>
     <td width="40" class="imagelink">
-     <a href="https://cydia.saurik.com/api/share#?source=http://beta.sparkservers.co.uk/"><img src="/gitfiles/add.png" height="40" width="40">
+     <a href="cydia://url/https://cydia.saurik.com/api/share#?source=http://beta.sparkservers.co.uk/"><img src="/gitfiles/add.png" height="40" width="40">
      </a>
     </td>
    </tr>
@@ -122,7 +122,7 @@ beta.sparkservers.co.uk
 apt.alfhaily.me/
     </td>
     <td width="40" class="imagelink">
-     <a href="https://cydia.saurik.com/api/share#?source=http://apt.alfhaily.me/"><img src="/gitfiles/add.png" height="40" width="40">
+     <a href="cydia://url/https://cydia.saurik.com/api/share#?source=http://apt.alfhaily.me/"><img src="/gitfiles/add.png" height="40" width="40">
      </a>
     </td>
    </tr>
@@ -131,7 +131,7 @@ apt.alfhaily.me/
 cydia.radare.org/
     </td>
     <td width="40" class="imagelink">
-     <a href="https://cydia.saurik.com/api/share#?source=http://cydia.radare.org/"><img src="/gitfiles/add.png" height="40" width="40">
+     <a href="cydia://url/https://cydia.saurik.com/api/share#?source=http://cydia.radare.org/"><img src="/gitfiles/add.png" height="40" width="40">
      </a>
     </td>
    </tr>
@@ -148,7 +148,7 @@ cydia.radare.org/
 cokepokes.github.io
     </td>
     <td width="40" class="imagelink">
-     <a href="https://cydia.saurik.com/api/share#?source=https://cokepokes.github.io/"><img src="/gitfiles/add.png" height="40" width="40">
+     <a href="cydia://url/https://cydia.saurik.com/api/share#?source=https://cokepokes.github.io/"><img src="/gitfiles/add.png" height="40" width="40">
      </a>
     </td>
    </tr>
