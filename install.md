@@ -21,6 +21,4 @@
     </td>
    </tr>
  <tr>
-   </tbody> </table>
-
  </tbody> </table>
