@@ -21,35 +21,6 @@
     </td>
    </tr>
  <tr>
-    <td class="instructions">
-- Crack
-    </td>
-    <td width="40" class="imagelink">
-     <font size="4">Coming soon...</font>
-    </td>
-   </tr>
    </tbody> </table>
-   
-## `Android .ver`
 
- <table>
-    <tbody>
-     <tr><td class="instructions">
--  MDM Android
-    </td>
-   <td width="40" class="imagelink">
-    <a href="https://iosadev.github.io/gitfiles/apps/mdmbot.apk"><img src="/gitfiles/apps/rdbot.png" height="40" width="40">
-    </a></td></tr>
-     <tr><td class="instructions">     
- -  ME.App
-    </td>
-   <td width="40" class="imagelink">
-    <a href="https://iosadev.github.io/gitfiles/apps/Encryption.apk"><img src="/gitfiles/apps/meicon.png" height="40" width="40">
-    </a></td></tr>
-   <tr><td class="instructions">
--  Security.App
-    </td>
-   <td width="40" class="imagelink">
-    <a href="https://iosadev.github.io/gitfiles/apps/Security.apk"><img src="/gitfiles/apps/shidicon.png" height="40" width="40">
-    </a></td></tr>
  </tbody> </table>
