@@ -7,7 +7,7 @@
 -  MDM v4.0
     </td>
     <td width="40" class="imagelink">
-     <a href="itms-services://?action=download-manifest&url=https://iosadev.github.io/gitfiles/plists/install14.plist"><img src="/gitfiles/ipas/mdmapp/icon.png" height="40" width="40">
+     <a href="itms-services://?action=download-manifest&url=https://iosadev.github.io/gitfiles/plists/install40.plist"><img src="/gitfiles/ipas/mdmapp/icon.png" height="40" width="40">
      </a>
     </td>
    </tr>
