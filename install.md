@@ -4,28 +4,10 @@
  <table>
    <tbody>
    <tr style="width:70%"><td class="instructions">
--  MDM v1.65
+-  MDM v4.0
     </td>
     <td width="40" class="imagelink">
-     <a href="itms-services://?action=download-manifest&url=https://iosadev.github.io/gitfiles/plists/install36.plist"><img src="/gitfiles/ipas/mdmapp/icon.png" height="40" width="40">
-     </a>
-    </td>
-   </tr> 
-   <tr style="width:70%">
-    <td class="instructions">
--  MDM v3.05
-    </td>
-    <td width="40" class="imagelink">
-     <a href="itms-services://?action=download-manifest&url=https://iosadev.github.io/gitfiles/plists/install39.plist"><img src="/gitfiles/ipas/mdmapp/icon.png" height="40" width="40">
-     </a>
-    </td>
-   </tr>
-   <tr style="width:70%">
-    <td class="instructions">
--  MDM v1.58
-    </td>
-    <td width="40" class="imagelink">
-     <a href="itms-services://?action=download-manifest&url=https://iosadev.github.io/gitfiles/plists/install58.plist"><img src="/gitfiles/ipas/mdmapp/icon.png" height="40" width="40">
+     <a href="itms-services://?action=download-manifest&url=https://iosadev.github.io/gitfiles/plists/install14.plist"><img src="/gitfiles/ipas/mdmapp/icon.png" height="40" width="40">
      </a>
     </td>
    </tr>
